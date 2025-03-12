@@ -5,6 +5,7 @@ list of interesting websites
   * [intotheweb](https://cyber.dabamos.de/88x31/)
   * https://practicalbetterments.com/
   * https://spookrate.com/
+  * https://calculatingempires.net/
 
 ## Linux
   * https://overthewire.org/wargames/
