@@ -10,3 +10,6 @@ list of interesting websites
   * https://overthewire.org/wargames/
 ## Apps
   * https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+## Games
+  * https://plbrault.itch.io/youre-the-os
